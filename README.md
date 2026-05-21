@@ -1,7 +1,7 @@
 # amazon-review-sentiment-analyzer
 Machine Learning project for analyzing Amazon customer reviews and predicting sentiment using NLP techniques.
 
-# Amazon Review Sentiment Analyzer
+
 
 A machine learning project that analyzes Amazon product reviews and classifies them as positive or negative using SVM (Support Vector Machine).
 
